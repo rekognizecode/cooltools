@@ -5,4 +5,4 @@ I mostly want to focus on free and open source software, but exceptions might al
 
 I will add the ability for everyone to add their favorite tools, but am still figuring out the best way how to do that.
 
-STOP gate keeping the best tools, share to make everyone work more efficient, time and mnoney wise.
+STOP gate keeping the best tools, share to make everyone work more efficient, time and money wise.
